@@ -1,0 +1,2 @@
+y::
+MouseClick, right

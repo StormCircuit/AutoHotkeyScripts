@@ -1,0 +1,1 @@
+﻿z::Send % "{Click " . ( GetKeyState("LButton") ? "Up}" : "Down}" )
